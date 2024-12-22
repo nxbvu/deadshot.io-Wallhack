@@ -1,4 +1,4 @@
-// Kopieren Sie diesen Code und fügen Sie ihn in die Browser-Konsole ein
+
 (function detectTechnologies() {
     const technologies = {
         frameworks: [],
